@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Annie Melnick</title>
+        <link rel="stylesheet" href="styles.css" />
+        <script src="myscript.js"></script>
+        <style>
+            h1 {color:indigo; }
+        </style>
+    </head>
+    <body>
+        <h1>Favorite Foods</h1>
+        <p>The best way I could describe some of my favorite foods is that they are comfort foods. These are the meals I make to cheer myself up, and because they are meals I ate growing up, I typically make them when I feel homesick. My other favorite foods, the seafood dishes don't have that same nostalgia factor, but are still favorites nonetheless. Eight years ago, I became pescatarian, which inspired me to try more seafood-forward dishes. As I compiled a list of my favorite foods, it was fascinating to see it being a mix of old and new. </p>
+        <h1>Favorite Bands</h1>
+        <p>All of my favorite bands were popular before I was born. My best guess is because bands aren't super popular right now. Personally,  I can't think of any modern bands that I actively listen to. But another reason is because many of my favorite bands were popular when my parents were growing up, so their songs were consistently played around me. Other bands just stood the test of time because they changed the music scene so profusely.</p>
+        <h2>My Favorite Foods In Order</h2>
+        <ol>
+            <li>macaroni & cheese with broccoli</li>
+            <li>mashed potatoes</li>
+            <li>spinach tortellini</li>
+            <li>ahi tuna</li>
+            <li>grilled salmon</li>
+            <li>grilled cheese with tomato soup</li>
+        </ol>
+        <h2>My Favorite Bands, Not Necessarily In Order</h2>
+        <ol>
+            <li>Queen</li>
+            <li>The Beatles</li>
+            <li>Fleetwood Mac</li>
+            <li>Guns N' Roses</li>
+            <li>No Doubt</li>
+            <li>The Rolling Stones</li>
+        </ol>
+        <script src="anotherscript.js"></script>
+    </body>
+</html> 
